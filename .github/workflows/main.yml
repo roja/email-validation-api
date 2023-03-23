@@ -13,6 +13,6 @@ jobs:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
       - run: npm install
-        uses: RhinoCodes/wrangler2-action@1.4.0
+      - uses: RhinoCodes/wrangler2-action@1.4.0
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
