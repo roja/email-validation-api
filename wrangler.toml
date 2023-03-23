@@ -1,0 +1,6 @@
+name = "email-validator-api"
+main = "src/index.ts"
+compatibility_date = "2022-11-28"
+routes = [
+	{ pattern = "email-validator.apis.arbia.co.uk", custom_domain = true }
+]
