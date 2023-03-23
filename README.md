@@ -1,4 +1,4 @@
-Simple Email Validation API
+Simple Serverless Email Validation API
 =
 
 A simple email validator checking format, domain existence and mx existence.
